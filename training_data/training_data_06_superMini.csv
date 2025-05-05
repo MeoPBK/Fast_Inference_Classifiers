@@ -1,0 +1,386 @@
+,Retrieve,Internet,ChatMemory,RunCode
+Can you summarize this PDF?,1,0,0,0
+Can you fact-check this statement?,0,1,0,0
+Can you remember what I said earlier in the chat?,0,0,1,0
+Can you continue our earlier conversation?,0,0,1,0
+Can you retrieve a document?,1,0,0,0
+Can you retrieve a chat memory?,0,0,1,0
+Can you retrieve an internet fact?,0,1,0,0
+Can you check online?,0,1,0,0
+Can you check the facts?,0,1,0,0
+How's the weather today?,0,1,0,0
+Can you summarize this document?,1,0,0,0
+Check online,0,1,0,0
+Look up in the internet,0,1,0,0
+Look up in the web,0,1,0,0
+Can you find this document?,1,0,0,0
+Do you remember what we talked about?,0,0,1,0
+The topic we discussed earlier,0,0,1,0
+Can you get the PDF we talked about?,1,0,0,0
+Can you verify this info?,0,1,0,0
+What did I say before about that?,0,0,1,0
+Check if this is true,0,1,0,0
+Did I already ask you this earlier?,0,0,1,0
+Find that file again,1,0,0,0
+Can you access my previous chats?,0,0,1,0
+Is this information accurate?,0,1,0,0
+Retrieve the last document,1,0,0,0
+Can you look this up for me?,0,1,0,0
+Can you see what we discussed last time?,0,0,1,0
+Was that in the file I gave you?,1,0,0,0
+Did we already talk about this?,0,0,1,0
+Does this match what's online?,0,1,0,0
+Open the document again,1,0,0,0
+What's the source of that info?,0,1,0,0
+Pull up the doc we used,1,0,0,0
+Can you show me that PDF again?,1,0,0,0
+Can you validate this claim?,0,1,0,0
+Remind me what I said before,0,0,1,0
+What did we conclude earlier?,0,0,1,0
+Can you double-check this with online sources?,0,1,0,0
+Where did that info come from?,0,1,0,0
+Bring back the document we were using,1,0,0,0
+Can you confirm this is correct?,0,1,0,0
+Can you reaccess our previous conversation?,0,0,1,0
+Was that mentioned in the previous file?,1,0,0,0
+Do you still remember our last discussion?,0,0,1,0
+Please find the article I gave you,1,0,0,0
+Is this factually accurate?,0,1,0,0
+"Summarize the file again, please",1,0,0,0
+Can you recall my previous input?,0,0,1,0
+Was that in the chat we had yesterday?,0,0,1,0
+Bring up the last thing I uploaded,1,0,0,0
+Check this against online data,0,1,0,0
+Review what we discussed before,0,0,1,0
+Locate the PDF we used earlier,1,0,0,0
+Can you get the notes I shared?,1,0,0,0
+Verify this with trusted sources,0,1,0,0
+What was the answer you gave me earlier?,0,0,1,0
+Can you access the previous PDF?,1,0,0,0
+Cross-check this with real data,0,1,0,0
+Didn't we go over this before?,0,0,1,0
+Reopen the document from earlier,1,0,0,0
+Does this align with what's online?,0,1,0,0
+Recall what we discussed on this,0,0,1,0
+Can you load the file I uploaded before?,1,0,0,0
+Fact-check this statement for accuracy,0,1,0,0
+What was my last question about this?,0,0,1,0
+Bring up the previous reference document,1,0,0,0
+Check online databases for this info,0,1,0,0
+Go back to what we said earlier,0,0,1,0
+Was this mentioned in the uploaded file?,1,0,0,0
+Can you confirm this using external sources?,0,1,0,0
+Pull up the chat history,0,0,1,0
+Look at the previous version of the file,1,0,0,0
+Is this consistent with public knowledge?,0,1,0,0
+Can you repeat what I told you earlier?,0,0,1,0
+Can you fetch the document from earlier?,1,0,0,0
+Can you confirm this using current data?,0,1,0,0
+Do you recall my original request?,0,0,1,0
+Show me the file you processed before,1,0,0,0
+Is that what official sources say?,0,1,0,0
+Remind me what we were working on,0,0,1,0
+Open the resource we talked about,1,0,0,0
+Compare this with verified sources,0,1,0,0
+What did I mention previously?,0,0,1,0
+Locate the earlier document version,1,0,0,0
+Does this check out online?,0,1,0,0
+What were my exact words again?,0,0,1,0
+Bring back the uploaded file,1,0,0,0
+Check the company's founding date in 'about_us.pdf' against their official website.,1,1,0,0
+Find the Python code example in 'tutorial_part3.docx' and execute it.,1,0,0,1
+Look up reviews for the specific laptop model I mentioned earlier in our conversation.,0,1,1,0
+Search online for a Python library to read Excel files and run a basic example to read 'data.xlsx'.,1,1,0,1
+"Execute the code block I shared previously, the one that calculates Fibonacci numbers.",0,0,1,1
+Retrieve the 'api_specs.yaml' file and compare the endpoint definition with the example usage I provided in the chat.,1,0,1,0
+"Find the performance benchmarks in 'results_summary.pdf', verify the competitor data online, and check if it matches the competitor name I gave you earlier.",1,1,1,0
+"Get the script 'image_processor.py' from the document, look up the documentation for the 'Pillow' library's resize function online, and run the script on 'logo.png'.",1,1,0,1
+Use the configuration parameters we discussed to run the simulation defined in the attached 'simulation_model.py' file.,1,0,1,1
+Remember the 'ModuleNotFoundError' I pasted? Search online for common causes related to virtual environments and try running the import statement from our chat again after suggesting a fix.,0,1,1,1
+"Retrieve the 'algorithm_pseudocode.txt' file, implement the described algorithm in Python, search online for standard test vectors for this algorithm, and run your implementation against them.",1,1,0,1
+Cross-reference the customer IDs mentioned in 'feedback_log.csv' with the user list I provided in our chat earlier.,1,0,1,0
+Find the code snippet for database connection in the 'config_guide.md' document and execute it to test the connection.,1,0,0,1
+Search online for tutorials on the 'React Hooks' concept we were discussing.,0,1,1,0
+Find a code example online for making HTTP GET requests in Java and run it to fetch the content of 'example.com'.,0,1,0,1
+Run the data validation script I provided earlier against the 'new_dataset.csv' file I just uploaded.,1,0,1,1
+Check the historical event date mentioned in 'chapter_5.pdf' using Wikipedia and compare it to the date I mentioned in our chat.,1,1,1,0
+"Retrieve the 'data_cleaning.ipynb' notebook, execute the cell tagged 'load_data', then find online documentation for the `fillna` method used in the next cell.",1,1,0,1
+Use the threshold value we agreed upon to modify the filtering function in the 'analysis_tool.py' script (from the attached file) and run the modified function.,1,0,1,1
+"Search online for solutions to the specific SQL error code I shared, and try running the corrected query from our discussion.",0,1,1,1
+"Get the 'benchmark.py' script, check online for the latest stable version of the 'numpy' library it imports, update the script if necessary, and run it.",1,1,0,1
+Compare the project milestones listed in 'plan.docx' with the completion dates I mentioned in our chat history.,1,0,1,0
+Find the setup instructions in 'README.md' and execute the command `pip install -r requirements.txt`.,1,0,0,1
+Look up the current best practices for API authentication that we talked about earlier.,0,1,1,0
+"Find a Python code snippet online for calculating standard deviation and run it on the list `[2, 4, 4, 4, 5, 5, 7, 9]`.",0,1,0,1
+Run the exact SQL query I pasted 10 minutes ago.,0,0,1,1
+"Retrieve the 'user_manual.pdf', find the section on 'Advanced Settings', and check online if the default port number mentioned is standard for that type of service.",1,1,0,0
+"Take the code from 'report_generator.py', modify the output file name based on our chat conversation, and execute the script.",1,0,1,1
+"Search online for explanations of the 'CORS' error I described happening with the JavaScript code from our chat, and suggest a fix.",0,1,1,1
+"Find the code example in 'appendix_B.doc', verify online that the external API it calls is still active, and run the example code.",1,1,0,1
+Access 'references.bib' and search online for the DOI link for the first entry.,1,1,0,0
+Find the code block labeled 'Example 3' in 'tutorial.html' and execute it.,1,0,0,1
+What was that specific Python library for data validation I mentioned? Look it up online.,0,1,1,0
+Find a JavaScript snippet online to format a date as 'YYYY-MM-DD' and run it for today's date.,0,1,0,1
+"Execute the function `calculate_average` that we defined earlier with the list `[1, 5, 9, 12]`.",0,0,1,1
+"Retrieve 'project_budget.xlsx', check the current exchange rate online for the currency mentioned, and compare the total cost to the figure we discussed last week.",1,1,1,0
+"Get the 'benchmark.sh' script from the document, search online for typical performance results for the tool it runs, and then execute the script.",1,1,0,1
+"Find the configuration loading code in 'app_config.py' (in the zip), use the file path I specified in chat, and run that part of the script.",1,0,1,1
+Remember the Python `requests` code that failed? Look up common reasons for a 403 Forbidden error online and try running the modified request from our chat.,0,1,1,1
+"Retrieve 'main_script.py', modify the input file path based on our chat, search online for the documentation of the `argparse` module it uses, and run the script with `--verbose`.",1,1,1,1
+Find the author listed in 'paper_meta.txt' and search for their profile on Google Scholar.,1,1,0,0
+Extract the code from the `<script>` tag in 'web_example.html' and run it.,1,0,0,1
+Search online for alternatives to the 'OldLibrary' we decided against using earlier.,0,1,1,0
+Find sample code online for connecting to a PostgreSQL database using Python's `psycopg2` library and run the connection test part.,0,1,0,1
+Run the data cleaning function `clean_column_names` we created previously on a sample dataframe.,0,0,1,1
+"Access 'historical_data.csv', verify the event dates online, and check if they align with the timeline I sketched out in our conversation.",1,1,1,0
+"Retrieve the 'system_check.pl' Perl script, search online for how to execute Perl scripts on Linux, and then run it.",1,1,0,1
+"Get the SQL query from 'report_query.sql' (attached), replace the placeholder date with the date I mentioned earlier, and execute the query.",1,0,1,1
+"Remember the discussion about thread safety? Find Python examples online illustrating race conditions and run one, then apply the locking mechanism we talked about to the code from our chat.",0,1,1,1
+"Find the 'build.gradle' file, update the dependency version based on our chat, search online for the release notes of that new version, and run the `gradle build` command.",1,1,1,1
+Retrieve 'company_list.txt' and search online for the headquarters location of the first company listed.,1,1,0,0
+Locate the PowerShell script block within 'admin_guide.docx' and execute it.,1,0,0,1
+We discussed using a message queue; search online for comparisons between RabbitMQ and Kafka based on the criteria I mentioned.,0,1,1,0
+Find a C++ code example online for reading a file line by line and run it on a sample text file input.,0,1,0,1
+Execute the test case function `test_edge_case` that I provided in our chat history.,0,0,1,1
+"Get the 'product_comparison.pdf', check the prices listed online, and compare them to the budget constraint I specified earlier.",1,1,1,0
+"Find the 'troubleshooting_code.py' script in the document, search online for the meaning of the exit code it might produce, and run the script.",1,1,0,1
+"Retrieve the 'template_generator.py' script, use the name value I gave you in the chat, and run the script to generate the output file.",1,0,1,1
+Remember the discussion about optimizing the SQL query? Find online guides for using `EXPLAIN ANALYZE` in PostgreSQL and run it on the query from our chat.,0,1,1,1
+"Access the 'Dockerfile', modify the base image tag as we discussed, search online for security best practices for the `RUN` commands used, and execute a `docker build`.",1,1,1,1
+Find the journal name in 'citation.ris' and search online for its impact factor.,1,1,0,0
+Extract and run the Lua script embedded in 'config_script.txt'.,1,0,0,1
+Search online for reviews of the 'NewTech' gadget I asked about yesterday.,0,1,1,0
+Find a Go code example online for making a simple HTTP server and run it.,0,1,0,1
+"Re-run the code that produced the error log I pasted earlier, but add the debug flag we discussed.",0,0,1,1
+"Retrieve 'event_schedule.ics', check the venue address online, and confirm it matches the location I mentioned previously.",1,1,1,0
+"Get the R script 'analysis.R' from the attached file, search online for documentation of the `ggplot2` function it uses, and run the script.",1,1,0,1
+"Find the Python function `process_batch` in 'batch_processor.py' (in the doc), use the batch size parameter I specified in chat, and execute that function.",1,0,1,1
+"Remember the JavaScript `Promise` code? Find online examples of using `async/await` and refactor the code from our chat using that pattern, then run the refactored version.",0,1,1,1
+"Retrieve 'Makefile', change the compiler flags based on our chat, search online for the meaning of the `-O3` flag, and run `make`.",1,1,1,1
+Access 'patent_list.csv' and search the web for the current status of the first patent number listed.,1,1,0,0
+Find the SQL DDL statements in 'schema_creation.sql' and execute them.,1,0,0,1
+"We talked about migrating the database; search online for guides comparing MySQL to PostgreSQL migration tools, based on the database size I mentioned.",0,1,1,0
+Find a Ruby code example online for interacting with the Twitter API (if possible without keys) and run a simple status fetch example.,0,1,0,1
+Execute the specific command line instruction I gave you earlier for running the compiled C++ program.,0,0,1,1
+"Get the 'travel_itinerary.pdf', check the flight status online for the first flight listed, and compare the departure time to what I told you.",1,1,1,0
+"Find the 'validation_script.js' in the document, search online for Node.js installation instructions, and run the script using Node.",1,1,0,1
+"Retrieve the 'report_formatter.py' script, use the output format style we agreed on in chat ('json' or 'csv'), and run the script.",1,0,1,1
+"Remember the slow web page loading I described? Find online tools for analyzing web page performance (like Lighthouse) and run an analysis on the URL from our chat, then try running the optimization suggestion code.",0,1,1,1
+"Access the 'cloudformation_template.yaml', modify the instance type based on our chat, search online for the pricing of that instance type, and run the AWS CLI command to deploy the stack.",1,1,1,1
+Find the ISBN number in 'book_details.txt' and search online for retailers selling it.,1,1,0,0
+Extract the Python code from the 'Code Cell' in 'notebook_export.html' and execute it.,1,0,0,1
+Search online for user reviews comparing the 'Software A' and 'Software B' that we were discussing.,0,1,1,0
+"Find a PHP code snippet online for sending a basic email and run it (it might fail without a configured server, but attempt execution).",0,1,0,1
+"Re-run the code snippet that timed out earlier, but increase the timeout parameter as we discussed.",0,0,1,1
+"Retrieve 'conference_attendees.csv', look up the affiliation of the first person online, and check if it matches the company I mentioned.",1,1,1,0
+"Get the 'data_checker.py' script from the document, search online for the `pandas` library's `assert_frame_equal` documentation, and run the script.",1,1,0,1
+"Find the main function in 'main_app.go' (in the attached zip), use the command-line argument I specified in chat, and run the compiled Go program.",1,0,1,1
+"Remember the CSS layout issue we discussed? Find online examples using Flexbox or Grid for that layout and apply the suggested CSS rules to the HTML snippet from our chat, then render/check it.",0,1,1,1
+"Retrieve the 'ansible_playbook.yml', modify the target host group based on our chat, search online for the documentation of the 'apt' module used, and run the playbook with `ansible-playbook`.",1,1,1,1
+Access 'list_of_chemicals.txt' and search online for the safety data sheet (SDS) of the first chemical listed.,1,1,0,0
+Find the Java code block in 'ExampleRunner.java' within the archive and compile and run it.,1,0,0,1
+Search online for performance comparisons between the two database indexing strategies I asked about earlier.,0,1,1,0
+Find a Swift code example online for making a network request and run the basic example.,0,1,0,1
+Execute the exact Python one-liner I gave you for processing the list earlier.,0,0,1,1
+Tell me a story about a brave knight.,0,0,0,0
+"What's your favorite color, if you could have one?",0,0,0,0
+Can you write a haiku about seasons changing?,0,0,0,0
+Explain the concept of friendship.,0,0,0,0
+What are your thoughts on artificial intelligence ethics?,0,0,0,0
+"If you could travel anywhere, where would you hypothetically go?",0,0,0,0
+Compose a short song about a rainy day.,0,0,0,0
+What makes a good leader?,0,0,0,0
+Describe a beautiful sunset.,0,0,0,0
+Can you brainstorm some ideas for a fantasy novel?,0,0,0,0
+What is the importance of creativity?,0,0,0,0
+"Imagine you are a cat, what would your day be like?",0,0,0,0
+Write a paragraph in the style of Shakespeare.,0,0,0,0
+What are some common themes in science fiction?,0,0,0,0
+How would you define 'happiness'?,0,0,0,0
+Can you give me some writing prompts?,0,0,0,0
+What is the role of empathy in communication?,0,0,0,0
+Describe a futuristic city.,0,0,0,0
+Write a dialogue between two characters meeting for the first time.,0,0,0,0
+What are the benefits of learning a new language?,0,0,0,0
+"If you could have a superpower, what would it be?",0,0,0,0
+Compose a limerick about a clumsy robot.,0,0,0,0
+What are some ways to practice mindfulness?,0,0,0,0
+Describe the feeling of accomplishment.,0,0,0,0
+Can you suggest some names for a pet dog?,0,0,0,0
+What is the difference between knowledge and wisdom?,0,0,0,0
+Imagine a world without electricity. What would it be like?,0,0,0,0
+Write a short poem about hope.,0,0,0,0
+What qualities make a piece of art compelling?,0,0,0,0
+How can one cultivate curiosity?,0,0,0,0
+Describe the perfect cup of coffee (or tea).,0,0,0,0
+Can you create a character profile for a detective?,0,0,0,0
+What is the significance of dreams?,0,0,0,0
+Write a short description of a magical forest.,0,0,0,0
+What are some strategies for effective problem-solving?,0,0,0,0
+"If animals could talk, what would they say?",0,0,0,0
+Compose a thank-you note.,0,0,0,0
+What does it mean to be resilient?,0,0,0,0
+Describe the sound of silence.,0,0,0,0
+Can you generate some plot ideas for a mystery story?,0,0,0,0
+What is the value of storytelling?,0,0,0,0
+"Imagine you could design a new holiday, what would it celebrate?",0,0,0,0
+Write a short piece about the joy of reading.,0,0,0,0
+What are some characteristics of different music genres?,0,0,0,0
+How would you explain 'irony'?,0,0,0,0
+Can you provide some tips for public speaking?,0,0,0,0
+What is the importance of preserving history?,0,0,0,0
+Describe an ideal workspace.,0,0,0,0
+Write a motto or slogan for lifelong learning.,0,0,0,0
+What makes a conversation engaging?,0,0,0,0
+What's the capital of Germany?,0,0,0,0
+Retrieve 'architecture_v2.pdf' and verify online if the 'XYZ' component mentioned is still supported.,1,1,0,0
+Find the Python script for data loading in 'etl_scripts.zip' and execute its main function.,1,0,0,1
+Remember the performance metric we were discussing? Search online for typical values for that metric in similar systems.,0,1,1,0
+Find a code snippet online using Python's 'asyncio' library for concurrent web requests and run a simple test.,0,1,0,1
+Execute the database migration script I shared in our chat yesterday evening.,0,0,1,1
+Access the 'user_survey_results.csv' file and compare the satisfaction scores mentioned with the target score I gave you earlier.,1,0,1,0
+"Get the 'security_audit.log' file, search online for explanations of the 'WARN: Insecure Cipher Suite' message found within, and check if it matches the warning type we discussed.",1,1,1,0
+"Find the Java code example in 'concurrency_patterns.docx', look up the Javadoc for the `ExecutorService` class online, and run the example.",1,1,0,1
+"Retrieve the 'deployment_playbook.yml', apply the server IP address change we agreed on in chat, and execute the playbook.",1,0,1,1
+Remember the 'TypeError' I encountered with the list comprehension? Search online for similar errors and try running the corrected version from our chat.,0,1,1,1
+"Retrieve 'algorithm_description.md', implement the sorting algorithm in Python, find its Big O notation online, and run it on a sample list.",1,1,0,1
+Compare the list of features in 'product_roadmap.pdf' with the feature requests I logged in our previous conversation.,1,0,1,0
+Find the SQL query labeled 'Q4_Report' in 'report_queries.sql' and execute it against the database.,1,0,0,1
+We talked about using WebSockets; search online for Python libraries that implement WebSockets server-side.,0,1,1,0
+Find a Bash script example online for checking server uptime and run it.,0,1,0,1
+Run the unit test function `test_user_creation` that I provided in the chat log from this morning.,0,0,1,1
+"Check the publication date in 'research_summary.doc', find the author's profile online, and see if it aligns with the affiliation I mentioned.",1,1,1,0
+"Get the 'data_visualization.R' script, look up the documentation for the `scale_color_viridis` function online, and run the script.",1,1,0,1
+Use the API key we discussed to run the data fetching script located in the attached 'fetch_data.py'.,1,0,1,1
+"Search online for solutions to the '502 Bad Gateway' error I described getting from the API endpoint we tested earlier, and try the suggested curl command from our chat.",0,1,1,1
+"Retrieve 'dependency_list.txt', check online if 'libXYZ version 1.2' has known vulnerabilities, and run the installation script 'setup.sh' (also attached).",1,1,0,1
+Access the 'meeting_minutes_april.md' file and verify the action item assigned to 'John Doe' against the task list I shared with you.,1,0,1,0
+Find the code block for initializing the logger in 'app_setup.py' and execute just that block.,1,0,0,1
+Remember the discussion about design patterns? Search online for a clear explanation of the 'Singleton' pattern.,0,1,1,0
+Find C# code online for calculating MD5 hash of a string and run it with the input 'test_string'.,0,1,0,1
+Execute the exact data transformation code snippet I pasted 15 minutes ago.,0,0,1,1
+"Retrieve 'competitor_analysis.pptx', check the market share data online for the main competitor mentioned, and compare it to the percentage I quoted earlier.",1,1,1,0
+"Get the 'model_training.py' script, find the documentation for the `sklearn.model_selection.train_test_split` function online, and run the script.",1,1,0,1
+Apply the discount percentage we agreed on to the pricing function in the 'billing_module.py' script (from the document) and run the function with a sample value.,1,0,1,1
+Remember the database deadlock issue? Search online for PostgreSQL strategies to prevent deadlocks and try applying the recommended transaction isolation level to the query from our chat.,0,1,1,1
+"Retrieve 'infrastructure_setup.tf', modify the region variable based on our chat, search online for Terraform best practices for managing state files, and run `terraform apply`.",1,1,1,1
+Access 'bibliography.json' and search the web for the first author's h-index.,1,1,0,0
+Find the Ruby script 'parser.rb' in the attached archive and execute it.,1,0,0,1
+We talked about accessibility standards; search online for the latest WCAG guidelines.,0,1,1,0
+Find a Java code example online for generating a random UUID and run it.,0,1,0,1
+"Re-run the performance benchmark script I shared, but use the 'large' dataset parameter we discussed.",0,0,1,1
+"Retrieve 'conference_schedule.pdf', check the speaker's affiliation online for the keynote address, and confirm it's the university I mentioned.",1,1,1,0
+"Get the 'stats_calculator.js' script from the document, look up the documentation for `Math.stddev` (or equivalent) online, and run the script using Node.js.",1,1,0,1
+"Find the configuration update function in 'config_manager.py' (in the doc), use the key-value pair I specified in chat, and execute that function.",1,0,1,1
+"Remember the CORS issue with the frontend code? Find online examples of configuring a Flask backend to allow specific origins and apply that configuration to the server code from our chat, then try running the server.",0,1,1,1
+"Retrieve 'Vagrantfile', change the base box version based on our chat, search online for common issues with that Vagrant box version, and run `vagrant up`.",1,1,1,1
+Access 'supplier_list.ods' and search online for recent news articles about the second supplier listed.,1,1,0,0
+Find the Swift code block for handling table view delegates in 'ViewController.swift' (in archive) and execute a conceptual check (no actual run).,1,0,0,0
+"Search online for comparisons between REST and GraphQL APIs, focusing on the caching aspect we discussed.",0,1,1,0
+Find a Perl script online for renaming files based on a pattern and run it on a dummy set of files.,0,1,0,1
+Execute the specific data aggregation pipeline command I provided earlier using pandas.,0,0,1,1
+"Get the 'employee_handbook.pdf', verify the public holiday dates listed online for this year, and check against the dates I mentioned.",1,1,1,0
+"Find the 'data_importer.cs' C# script in the document, search online for the documentation of the .NET CSV parsing library it uses, and compile and run the script.",1,1,0,1
+"Retrieve the 'alerting_rules.yaml' file, use the notification email address we agreed on in chat, and run the validation command for the alerting tool.",1,0,1,1
+"Remember the slow database query? Find online tutorials for indexing strategies in MySQL for that type of query and apply the recommended index to the table schema from our chat, then run the `EXPLAIN` command again.",0,1,1,1
+"Access the 'kubernetes_deployment.yaml', modify the replica count based on our chat, search online for best practices regarding liveness probes, and run `kubectl apply -f`.",1,1,1,1
+Find the patent number in 'invention_spec.txt' and search the USPTO website for its current status.,1,1,0,0
+Extract and run the embedded JavaScript code from the 'interactive_chart.svg' file.,1,0,0,1
+We considered several charting libraries earlier; search online for feature comparisons focusing on real-time updates.,0,1,1,0
+Find a Rust code example online for basic file I/O (reading a file) and run it.,0,1,0,1
+"Re-run the image processing script I shared, but use the 'grayscale' conversion flag we discussed.",0,0,1,1
+"Retrieve 'vendor_contract.docx', check the governing law jurisdiction online, and confirm it matches the state I mentioned.",1,1,1,0
+"Get the 'backup_script.sh' from the attached file, search online for the meaning of the `rsync` flags it uses, and run the script in dry-run mode.",1,1,0,1
+"Find the data transformation function `normalize_data` in 'utils.py' (in the doc), use the scaling factor I specified in chat, and execute that function on sample data.",1,0,1,1
+"Remember the authentication failure? Find online documentation for OAuth2 implicit flow and compare it to the code implementation from our chat, then try running the corrected auth request.",0,1,1,1
+"Retrieve 'pom.xml', update the Spring Boot version based on our chat, search online for migration notes for that version update, and run `mvn clean install`.",1,1,1,1
+Access 'list_of_books.csv' and search online for reviews of the book in the third row.,1,1,0,0
+Find the main method in 'Program.cs' within the provided solution file and compile and run the project.,1,0,0,1
+"Search online for tutorials explaining the difference between Python's `list.append()` and `list.extend()`, which we were unsure about earlier.",0,1,1,0
+Find a Scala code example online for using the Akka framework for actor messaging and run a basic ping-pong example.,0,1,0,1
+Execute the specific Git command I gave you earlier for reverting a commit.,0,0,1,1
+"Get the 'building_blueprints.dwg' file (conceptually, cannot render), check the architect's name online, and verify if it's the firm I mentioned.",1,1,1,0
+"Find the 'data_exporter.java' script in the document, search online for the documentation of the Apache POI library it uses for Excel export, and compile and run the script.",1,1,0,1
+"Retrieve the 'notification_template.txt', insert the username we decided on in chat, and run the script that sends the notification.",1,0,1,1
+"Remember the slow rendering in the React component? Find online articles about React performance optimization techniques (like memoization) and apply a relevant technique to the component code from our chat, then test it.",0,1,1,1
+"Access the 'terraform_module/main.tf', change the instance count based on our chat, search online for the cost implications of the specified machine type, and run `terraform plan`.",1,1,1,1
+Find the clinical trial identifier in 'study_protocol.pdf' and search ClinicalTrials.gov for its current status.,1,1,0,0
+Extract the R code block from 'statistical_analysis.Rmd' and execute it.,1,0,0,1
+We discussed different cloud providers; search online for a comparison of AWS Lambda vs Google Cloud Functions pricing based on the invocation frequency I mentioned.,0,1,1,0
+Find a Kotlin code example online for creating a simple Android activity and run the basic app build.,0,1,0,1
+"Re-run the file parsing script I shared, but use the 'strict' error handling mode we discussed.",0,0,1,1
+"Retrieve 'legal_agreement.pdf', check the effective date online (if it's a known public agreement), and confirm it matches the date I specified.",1,1,1,0
+"Get the 'db_backup.sql' script from the document, search online for MySQL commands to restore from a dump file, and execute the restore command (perhaps on a test DB).",1,1,0,1
+"Find the API call function `fetchUserData` in 'api_client.js' (in the doc), use the user ID I provided in chat, and execute that function using Node.js.",1,0,1,1
+Remember the discussion about memory leaks in the C++ code? Find online tools for memory profiling (like Valgrind) and run the compiled code from our chat using one of those tools.,0,1,1,1
+"Retrieve 'package.json', update the 'react-router-dom' version based on our chat, search online for breaking changes in that new version, and run `npm install`.",1,1,1,1
+Access 'competitor_features.xlsx' and search online for user reviews discussing the 'auto-save' feature of the first competitor listed.,1,1,0,0
+Find the `main` function in 'main.c' within the attached source files and compile and run the executable.,1,0,0,1
+Search online for explanations of Python's Global Interpreter Lock (GIL) which we were debating earlier.,0,1,1,0
+Find an Objective-C code example online for handling button taps in iOS and run the basic build.,0,1,0,1
+Execute the specific Docker command I gave you earlier for running the container with mounted volumes.,0,0,1,1
+"Get the 'audit_report_Q1.pdf', check the auditor's name online, and verify if they are certified according to the standard I mentioned.",1,1,1,0
+"Find the 'data_migration.py' script in the document, search online for the documentation of the `sqlalchemy` ORM methods it uses, and run the script.",1,1,0,1
+"Retrieve the 'email_sender.py' script, use the recipient address we agreed on in chat, and run the script to send a test email.",1,0,1,1
+"Remember the accessibility issue with the web form? Find online examples of ARIA attributes for custom checkboxes and apply them to the HTML snippet from our chat, then validate it.",0,1,1,1
+"Access the 'serverless.yml' file, modify the memory allocation based on our chat, search online for AWS Lambda pricing tiers, and run `serverless deploy`.",1,1,1,1
+Retrieve 'competitor_pricing.xlsx' and search online for current public pricing for the first competitor listed.,1,1,0,0
+Access 'conference_speakers.txt' and search online for the latest publications by the keynote speaker.,1,1,0,0
+Find the 'references' section in 'thesis_final.pdf' and look up the citation count for the most cited paper online.,1,1,0,0
+Get the 'ingredients.txt' file I uploaded and search online for potential allergens associated with the first ingredient.,1,1,0,0
+Retrieve the 'historical_events.docx' and verify the date of the 'Battle of Hastings' using online sources.,1,1,0,0
+Access 'company_portfolio.pdf' and search online for recent news regarding their latest acquisition mentioned.,1,1,0,0
+Find the 'technical_specs.md' document and look up online reviews for the processor model specified.,1,1,0,0
+Get the 'travel_plan.txt' and search online for current travel advisories for the destination country.,1,1,0,0
+Retrieve 'medication_list.pdf' and search the web for known interactions between the first two drugs listed.,1,1,0,0
+Access 'list_of_universities.csv' and search online for the current QS ranking of the first university.,1,1,0,0
+Retrieve 'project_plan_v3.docx' and remind me of the specific deadline I mentioned for Phase 1 in our chat.,1,0,1,0
+Access 'api_documentation.html' and find the part of our conversation where we discussed the authentication method.,1,0,1,0
+Find the 'meeting_summary_may.txt' file and recall the alternative solution I proposed during our discussion.,1,0,1,0
+Get the 'user_feedback_summary.pdf' and remind me which specific user ID I asked you to investigate further.,1,0,1,0
+Retrieve 'design_mockups_report.docx' and find the hex code for the primary color we decided on in the chat.,1,0,1,0
+Access 'requirements_spec_final.md' and recall the estimated story points I assigned to the login feature.,1,0,1,0
+Find the 'budget_tracking.xlsx' spreadsheet and remind me of the cost center code I specified for marketing expenses.,1,0,1,0
+Get the 'competitor_feature_matrix.pdf' and find where in our chat I highlighted the most critical feature gap.,1,0,1,0
+Retrieve 'release_notes_v1.2.txt' and recall the specific bug ID I asked you to prioritize fixing.,1,0,1,0
+Access 'style_guide.css' and remind me of the font family name we agreed upon for headings.,1,0,1,0
+Retrieve 'data_validation_script.py' from the zip file and execute its `validate_schema` function.,1,0,0,1
+Access 'report_generator.sql' and run the main query defined within it.,1,0,0,1
+Find the 'setup.sh' script in the attached 'deployment_package.tar.gz' and execute it.,1,0,0,1
+Get the 'example_code.java' file and compile and run its `main` method.,1,0,0,1
+Retrieve 'benchmark_runner.pl' and execute the script.,1,0,0,1
+Access the 'test_cases.py' file and run the test suite using `pytest`.,1,0,0,1
+Find the 'migration_script_v2.sql' and execute it on the test database.,1,0,0,1
+Get the 'image_resizer.js' script from the document and run it using Node.js with 'input.jpg' as argument.,1,0,0,1
+Retrieve 'notebook_analysis.ipynb' and execute all code cells sequentially.,1,0,0,1
+Access the 'config_parser.rb' script and run its `parse_config` method.,1,0,0,1
+Search online for the current Python version and remind me which version I said we should standardize on.,0,1,1,0
+Look up the documentation for the 'pandas merge' function and recall the specific join type I asked about earlier.,0,1,1,0
+Find the latest news about 'Project Gemini' online and remind me who I said the project lead was.,0,1,1,0
+Search for reviews of the 'XYZ framework' and recall the main alternative I suggested we consider.,0,1,1,0
+Look up the syntax for JavaScript arrow functions and find the example I shared where I used one incorrectly.,0,1,1,0
+Find the current price of Bitcoin online and remind me what price I mentioned it was at last week.,0,1,1,0
+Search for tutorials on 'Docker networking' and recall the specific port mapping issue I described.,0,1,1,0
+Look up the weather forecast for Miami next week and remind me which days I said I would be there.,0,1,1,0
+Find the official documentation for 'React Router' online and recall the specific routing problem I asked for help with.,0,1,1,0
+Search for recent security vulnerabilities related to 'Apache Log4j' and remind me which server I said might be affected.,0,1,1,0
+Find a Python code snippet online to calculate SHA256 hash and run it on the string 'password123'.,0,1,0,1
+Search online for a Bash command to find files larger than 100MB and run it in the current directory.,0,1,0,1
+Look up a JavaScript example for making a POST request using `fetch` and run it against a test endpoint URL.,0,1,0,1
+"Find sample code online for using Python's `matplotlib` to create a simple bar chart and run it with sample data `{'A': 10, 'B': 15, 'C': 7}`.",0,1,0,1
+Search for a Go program online that prints the current system time and run it.,0,1,0,1
+Find a Ruby script online to parse a simple XML file and run it on `<data><item>1</item></data>`.,0,1,0,1
+Look up a PowerShell command online to get the list of running processes and execute it.,0,1,0,1
+Find a C++ example online for standard input/output (reading a number and printing it) and compile and run it.,0,1,0,1
+Search for a Java code snippet online to connect to a MySQL database (using JDBC) and run the connection test part.,0,1,0,1
+"Find a Swift code example online for basic array manipulation (e.g., appending an element) and run it.",0,1,0,1
+Execute the Python function `process_user_data` that I defined earlier in this chat.,0,0,1,1
+Run the SQL query I provided previously to count users by country.,0,0,1,1
+"Re-run the simulation script snippet I shared, but this time with 1000 iterations as I mentioned later.",0,0,1,1
+Execute the Bash command I gave you for finding specific log entries.,0,0,1,1
+Run the `test_api_endpoint` function that I pasted into the chat window.,0,0,1,1
+Execute the JavaScript code block for calculating the total price that we worked on.,0,0,1,1
+Run the specific `git checkout` command I told you to use to switch branches.,0,0,1,1
+Execute the data cleaning function `remove_duplicates` which I provided the code for.,0,0,1,1
+Run the Java code snippet I shared for testing the connection pool.,0,0,1,1
+Execute the R code block for generating the plot that I posted earlier.,0,0,1,1

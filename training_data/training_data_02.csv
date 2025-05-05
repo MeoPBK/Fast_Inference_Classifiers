@@ -1,0 +1,354 @@
+,Retrieve,Internet,ChatMemory,RunCode
+Can you summarize this PDF?,1,0,0,0
+Can you fact-check this statement?,0,1,0,0
+Can you remember what I said earlier in the chat?,0,0,1,0
+Can you continue our earlier conversation?,0,0,1,0
+Can you retrieve a document?,1,0,0,0
+Can you retrieve a chat memory?,0,0,1,0
+Can you retrieve an internet fact?,0,1,0,0
+Can you check online?,0,1,0,0
+Can you check the facts?,0,1,0,0
+How's the weather today?,0,1,0,0
+Can you summarize this document?,1,0,0,0
+Check online,0,1,0,0
+Look up in the internet,0,1,0,0
+Look up in the web,0,1,0,0
+Can you find this document?,1,0,0,0
+Do you remember what we talked about?,0,0,1,0
+The topic we discussed earlier,0,0,1,0
+Can you get the PDF we talked about?,1,0,0,0
+Can you verify this info?,0,1,0,0
+What did I say before about that?,0,0,1,0
+Check if this is true,0,1,0,0
+Did I already ask you this earlier?,0,0,1,0
+Find that file again,1,0,0,0
+Can you access my previous chats?,0,0,1,0
+Is this information accurate?,0,1,0,0
+Retrieve the last document,1,0,0,0
+Can you look this up for me?,0,1,0,0
+Can you see what we discussed last time?,0,0,1,0
+Was that in the file I gave you?,1,0,0,0
+Did we already talk about this?,0,0,1,0
+Does this match what's online?,0,1,0,0
+Open the document again,1,0,0,0
+What's the source of that info?,0,1,0,0
+Pull up the doc we used,1,0,0,0
+Can you show me that PDF again?,1,0,0,0
+Can you validate this claim?,0,1,0,0
+Remind me what I said before,0,0,1,0
+What did we conclude earlier?,0,0,1,0
+Can you double-check this with online sources?,0,1,0,0
+Where did that info come from?,0,1,0,0
+Bring back the document we were using,1,0,0,0
+Can you confirm this is correct?,0,1,0,0
+Can you reaccess our previous conversation?,0,0,1,0
+Was that mentioned in the previous file?,1,0,0,0
+Do you still remember our last discussion?,0,0,1,0
+Please find the article I gave you,1,0,0,0
+Is this factually accurate?,0,1,0,0
+"Summarize the file again, please",1,0,0,0
+Can you recall my previous input?,0,0,1,0
+Was that in the chat we had yesterday?,0,0,1,0
+Bring up the last thing I uploaded,1,0,0,0
+Check this against online data,0,1,0,0
+Review what we discussed before,0,0,1,0
+Locate the PDF we used earlier,1,0,0,0
+Can you get the notes I shared?,1,0,0,0
+Verify this with trusted sources,0,1,0,0
+What was the answer you gave me earlier?,0,0,1,0
+Can you access the previous PDF?,1,0,0,0
+Cross-check this with real data,0,1,0,0
+Didn't we go over this before?,0,0,1,0
+Reopen the document from earlier,1,0,0,0
+Does this align with what's online?,0,1,0,0
+Recall what we discussed on this,0,0,1,0
+Can you load the file I uploaded before?,1,0,0,0
+Fact-check this statement for accuracy,0,1,0,0
+What was my last question about this?,0,0,1,0
+Bring up the previous reference document,1,0,0,0
+Check online databases for this info,0,1,0,0
+Go back to what we said earlier,0,0,1,0
+Was this mentioned in the uploaded file?,1,0,0,0
+Can you confirm this using external sources?,0,1,0,0
+Pull up the chat history,0,0,1,0
+Look at the previous version of the file,1,0,0,0
+Is this consistent with public knowledge?,0,1,0,0
+Can you repeat what I told you earlier?,0,0,1,0
+Can you fetch the document from earlier?,1,0,0,0
+Can you confirm this using current data?,0,1,0,0
+Do you recall my original request?,0,0,1,0
+Show me the file you processed before,1,0,0,0
+Is that what official sources say?,0,1,0,0
+Remind me what we were working on,0,0,1,0
+Open the resource we talked about,1,0,0,0
+Compare this with verified sources,0,1,0,0
+What did I mention previously?,0,0,1,0
+Locate the earlier document version,1,0,0,0
+Does this check out online?,0,1,0,0
+What were my exact words again?,0,0,1,0
+Bring back the uploaded file,1,0,0,0
+Verify the accuracy of this info,0,1,0,0
+Recall the last thing I said about this,0,0,1,0
+Access the document we used yesterday,1,0,0,0
+Look this up from a reliable source,0,1,0,0
+Can you show what I said earlier?,0,0,1,0
+Find the file I attached,1,0,0,0
+Is that supported by public sources?,0,1,0,0
+Check the previous chat logs,0,0,1,0
+Can you debug this Python function for me?,0,1,0,1
+What's the output of this code snippet?,0,0,0,1
+Can you optimize this loop?,0,1,0,1
+Write a function that checks for prime numbers,0,0,0,1
+Fix the error in this JavaScript code,0,1,0,1
+Can you show me how recursion works with factorial?,0,1,0,0
+What does this regular expression do?,0,1,0,0
+Can you convert this function from Java to Python?,0,0,0,1
+Simulate a coin toss in Python,0,0,0,1
+Can you write a sorting algorithm?,0,0,0,1
+Help me write a SQL query for this data,0,1,0,1
+Find the bug in this C++ loop,0,1,0,1
+Write a Python script to rename files in a folder,0,1,0,1
+What does this traceback mean in Python?,0,1,0,0
+Can you explain this error message?,0,1,0,0
+Show me how to write a for loop in Go,0,1,0,0
+How do I reverse a string in JavaScript?,0,1,0,0
+Write a function to calculate Fibonacci numbers,0,0,0,1
+Check if this code will cause a memory leak,0,1,0,1
+Can you simulate dice rolls in Python?,0,0,0,1
+How do I fix a segmentation fault in C?,0,1,0,0
+Generate a function to compute factorial recursively,0,0,0,1
+Why does this infinite loop happen?,0,1,0,1
+Compare two lists in Python and return common elements,0,0,0,1
+Write a script to scrape data from a website,0,1,0,1
+Build a basic calculator in JavaScript,0,1,0,1
+Convert this CSV file to JSON using Python,0,1,0,1
+Create a function to validate email addresses,0,1,0,1
+Can you implement a binary search algorithm?,0,0,0,1
+How do I parse this XML file with Python?,0,1,0,0
+Fix this indentation error in my script,0,0,0,1
+Run this code and tell me the result,0,0,0,1
+Write a script that monitors CPU usage,0,1,0,1
+Translate this pseudocode into working Python,0,0,0,1
+Can you write a unit test for this function?,0,1,0,1
+"Why is `range(1, 10)` skipping the number 10 in Python?",0,1,0,0
+What does `len([])` return in Python?,0,0,0,1
+Fix this: `for(i = 0; i < 5; i++) print(i)`,0,0,0,1
+What is wrong with this SQL query: `SELECT * FROM users WHERE id =`,0,1,0,0
+"Explain this: `const [a, b] = [1, 2];`",0,1,0,0
+Why does `null == undefined` return true in JS?,0,1,0,0
+What's the output of `print('Hello' + str(5))`?,0,0,0,1
+Fix this error: `TypeError: 'int' object is not iterable`,0,1,0,1
+Can you explain what `lambda x: x*2` does?,0,0,0,1
+What’s wrong with this HTML? `<div><span></div></span>`,0,1,0,0
+How do I fix `IndentationError` in this Python code?,0,0,0,1
+Why does this fail: `if (a = 5)` in JavaScript?,0,1,0,0
+"What's the output of `sum([1, 2, 3])`?",0,0,0,1
+Why is this list comprehension invalid: `[x for x in range(5) if]`,0,1,0,0
+What does this bash command do? `cat file.txt | grep 'foo'`,0,1,0,0
+Why is `document.getElementById('id')` returning null?,0,1,0,0
+Explain the regex: `^[a-z]+$`,0,1,0,0
+"Why is this not working? `import numpy as np` → `np.array([1,2,3])`",0,1,0,0
+"Fix this JSON: `{name: 'Alice', age: 30}`",0,1,0,0
+Why does this return NaN? `parseInt('08')`,0,1,0,0
+Can you rewrite this loop as a list comprehension? `for x in range(5): a.append(x*x)`,0,0,0,1
+"What does `set([1,2,2,3])` return?",0,0,0,1
+What’s wrong here? `let result = await fetch(url)` in non-async function,0,1,0,0
+"What does `map(str, [1,2,3])` return?",0,0,0,1
+Explain why this errors: `float('abc')`,0,1,0,0
+Why is my loop infinite? `while(x = 5):`,0,1,0,0
+What does `Math.floor(4.7)` do?,0,0,0,1
+Why does this fail in Python 3: `print 'hello'`,0,1,0,0
+What does `typeof null` return in JS?,0,1,0,0
+What does `[].push(1)` return?,0,0,0,1
+How to fix this pandas error: `KeyError: 'column_name'`,0,1,0,0
+What does this do? `def f(*args): print(args)`,0,0,0,1
+"What does `int('0b101', 2)` return?",0,0,0,1
+"What does this do? `a = [1, 2]; b = a; b[0] = 99`",0,0,0,1
+Explain the result of `3 / 2` in Python 2 vs Python 3,0,1,0,0
+Can you re-run this with new parameters?,0,0,0,1
+Can you find the documentation for this function?,0,1,0,0
+What did we decide about that function yesterday?,0,0,1,0
+Can you summarize the README file I gave you?,1,0,0,0
+Was this error in our earlier conversation?,0,0,1,0
+Run the code from earlier conversation?,0,0,1,1
+Check the code I posted before,0,0,1,0
+Check the code I gave you earlier,0,0,1,0
+Modify my main code with this new part,0,0,1,1
+Update the code from before with this new snippet,0,0,1,1
+Find and fix the bug from before,0,1,1,1
+Is this fix consistent with Python best practices?,0,1,0,0
+Did I already upload this code snippet?,0,0,1,0
+Summarize this script's purpose,1,0,0,0
+Search for the latest patch for this bug,0,1,0,0
+Show me the file you analyzed before,1,0,0,0
+Reopen the notes from earlier,1,0,0,0
+Grab the PDF I sent you,1,0,0,0
+Load the last document we discussed,1,0,0,0
+Can you access the file from yesterday?,1,0,0,0
+Find the original upload,1,0,0,0
+Re-access the article I shared,1,0,0,0
+Return the whitepaper I gave you,1,0,0,0
+Is this data up to date?,0,1,0,0
+Check if this source is reliable,0,1,0,0
+Find the official explanation,0,1,0,0
+Look for supporting evidence,0,1,0,0
+What’s the current population of Canada?,0,1,0,0
+Can you search for related news?,0,1,0,0
+Is there a scientific consensus on this?,0,1,0,0
+Search for the latest research,0,1,0,0
+What did we decide last time?,0,0,1,0
+Recall our previous notes,0,0,1,0
+Go back to our earlier conclusion,0,0,1,0
+What was my initial input?,0,0,1,0
+Retrieve the chat from this morning,0,0,1,0
+Do you remember what we ruled out?,0,0,1,0
+Refer back to my first message,0,0,1,0
+Review what we discussed on this topic,0,0,1,0
+Write a Python function to count vowels,0,0,0,1
+Run this block and show the output,0,0,0,1
+Create a simple web scraper,0,1,0,1
+Can you format this JSON nicely?,0,0,0,1
+Write a script to check disk usage,0,1,0,1
+Convert this list to a dictionary,0,0,0,1
+Generate sample code for a Flask app,0,1,0,1
+Simulate tossing two dice,0,0,0,1
+How do I write an async function in Python?,0,1,0,0
+What’s the right syntax for arrow functions in JS?,0,1,0,0
+Find a way to sort an array of objects by key,0,1,0,0
+What libraries can I use for PDF parsing in Python?,0,1,0,0
+How do I write a cron job to run a script hourly?,0,1,0,0
+Search for the cleanest way to format dates in Java,0,1,0,0
+Compare list comprehension vs map performance,0,1,0,0
+Get the best way to debounce a function in JS,0,1,0,0
+What were the key points in the document I uploaded?,1,0,0,0
+Find the section about 'Project X' in the attached report.,1,0,0,0
+Can you pull up the specs sheet I sent last week?,1,0,0,0
+Extract the table from page 5 of the PDF.,1,0,0,0
+"Referencing the file 'meeting_notes.txt', what was decided?",1,0,0,0
+Show me the presentation slides again.,1,0,0,0
+What's the capital of Australia?,0,1,0,0
+Is it going to rain tomorrow?,0,1,0,0
+Find reviews for the new iPhone.,0,1,0,0
+Who won the last world cup?,0,1,0,0
+What are the side effects of this medication?,0,1,0,0
+Search the web for recent AI advancements.,0,1,0,0
+Verify the date of this historical event.,0,1,0,0
+What was the link I shared earlier?,0,0,1,0
+Remind me of the name I mentioned before.,0,0,1,0
+Can you scroll up to where we discussed the budget?,0,0,1,0
+What options did we consider previously?,0,0,1,0
+Let's revisit the point you made about efficiency.,0,0,1,0
+Did I give you my email address already?,0,0,1,0
+Execute this Python code.,0,0,0,1
+What is the value of `x` after running this?,0,0,0,1
+Write a function to reverse a list.,0,0,0,1
+Implement quicksort in Java.,0,0,0,1
+Calculate 2^10 using code.,0,0,0,1
+Run `print('test')`.,0,0,0,1
+"Debug this Go program, it keeps crashing.",0,1,0,1
+Explain this Python error: `KeyError`.,0,1,0,0
+How can I make this SQL query faster?,0,1,0,0
+What's a more Pythonic way to write this loop?,0,1,0,0
+Find examples of using the `requests` library in Python.,0,1,0,0
+Translate this C# snippet to JavaScript.,0,0,0,1
+Run the code snippet I pasted 5 minutes ago.,0,0,1,1
+Take the function we defined earlier and add error handling.,0,0,1,1
+Debug the code block from our previous exchange.,0,1,1,1
+Can you modify the script I shared before to use a different variable?,0,0,1,1
+Re-run the simulation code with the parameters I mentioned earlier.,0,0,1,1
+Analyze the Python script in 'utils.py' for potential bugs.,1,0,0,0
+Extract and run the code examples from the attached tutorial PDF.,1,0,0,1
+Summarize the algorithm described in the document and provide a Python implementation.,1,0,0,1
+Check if the statistics mentioned in this report are still current online.,1,1,0,0
+Verify the claims made in this article against recent news.,1,1,0,0
+Find external reviews or critiques of the methodology described in this paper.,1,1,0,0
+What does the abstract of this paper say?,1,0,0,0
+Find the contact information in the attached vCard.,1,0,0,0
+Pull up the financial report I uploaded.,1,0,0,0
+Show me the 'Conclusions' section of the document.,1,0,0,0
+Can you locate the license agreement file?,1,0,0,0
+Reference the user manual for setup instructions.,1,0,0,0
+What is the main topic of 'chapter_3.docx'?,1,0,0,0
+Get the meeting minutes from last Tuesday's file.,1,0,0,0
+Display the image file 'diagram.png'.,1,0,0,0
+What are the requirements listed in the spec document?,1,0,0,0
+Access the 'appendix.pdf'.,1,0,0,0
+Summarize the key findings from the research paper provided.,1,0,0,0
+Find mentions of 'Project Phoenix' in the internal memo.,1,0,0,0
+What's the latest news on the stock market?,0,1,0,0
+Is Pluto considered a planet?,0,1,0,0
+Find tutorials on how to knit.,0,1,0,0
+What is the current exchange rate between USD and EUR?,0,1,0,0
+Search for recipes using chicken and broccoli.,0,1,0,0
+Who is the current prime minister of Japan?,0,1,0,0
+Explain the concept of quantum entanglement.,0,1,0,0
+Find the official website for NASA.,0,1,0,0
+Are there any travel warnings for Italy?,0,1,0,0
+What does 'ephemeral' mean?,0,1,0,0
+Look up the symptoms of the flu.,0,1,0,0
+Find directions to the nearest library.,0,1,0,0
+What movies are playing nearby?,0,1,0,0
+Verify the boiling point of water at sea level.,0,1,0,0
+Search for recent studies on climate change.,0,1,0,0
+How does photosynthesis work?,0,1,0,0
+What are common causes of `FileNotFoundError` in Python?,0,1,0,0
+Explain JavaScript closures.,0,1,0,0
+What was the first question I asked you today?,0,0,1,0
+"You mentioned a specific book title earlier, what was it?",0,0,1,0
+Let's go back to the idea about marketing.,0,0,1,0
+Can you remind me of the steps we outlined?,0,0,1,0
+Didn't you suggest an alternative approach before?,0,0,1,0
+What was the context for my previous message?,0,0,1,0
+Summarize our discussion about the project timeline.,0,0,1,0
+Find the part where I listed the requirements.,0,0,1,0
+Did we talk about the budget constraints already?,0,0,1,0
+What was your response to my question about the API?,0,0,1,0
+Let's pick up where we left off regarding the user interface.,0,0,1,0
+Can you find the code snippet I shared about 10 messages ago?,0,0,1,0
+Remind me of the parameters I specified earlier for the simulation.,0,0,1,0
+Calculate the factorial of 7.,0,0,0,1
+Generate a random number between 1 and 100.,0,0,0,1
+"Write Python code to sort this list: [5, 2, 8, 1].",0,0,0,1
+Execute `import math; print(math.pi)`.,0,0,0,1
+What is the output of `10 // 3` in Python?,0,0,0,1
+Write a function that takes two numbers and returns their sum.,0,0,0,1
+Run this JavaScript: `console.log('Hello World')`.,0,0,0,1
+Create a list of squares from 1 to 10.,0,0,0,1
+Evaluate the expression `(5 + 3) * 2`.,0,0,0,1
+Write code to check if a string is a palindrome.,0,0,0,1
+Simulate 100 coin flips and count heads/tails.,0,0,0,1
+Generate a UUID.,0,0,0,1
+"What does `pow(2, 5)` return?",0,0,0,1
+Write a basic 'hello world' program in C++.,0,0,0,1
+Explain the error from our earlier conversation.,0,1,1,0
+Run the code I posted before and tell me the output.,0,0,1,1
+Debug the code I gave you earlier using online resources.,0,1,1,1
+Run this script and summarize what it does based on its output and the file contents.,1,0,0,1
+Verify the contact info in this document against LinkedIn.,1,1,0,0
+Check the code in the document for common security vulnerabilities using online guides.,0,1,0,1
+Did we discuss running this code before? Check chat history.,0,0,1,0
+Find the document where we outlined the API specs.,1,0,0,0
+Search online for alternatives to the library mentioned in this document.,1,1,0,0
+Remind me of the Python code I wrote yesterday for file parsing.,0,0,1,0
+Execute the SQL query we discussed previously.,0,0,1,1
+Tell me about yourself.,0,0,0,0
+What can you do?,0,0,0,0
+Hi there!,0,0,0,0
+Can you write a poem?,0,0,0,0
+What is the meaning of life?,0,1,0,0
+Explain the difference between Retrieve and Chat Retrieval based on our previous conversation.,0,0,1,0
+Look up the documentation for the `os` module in Python.,0,1,0,0
+Find the bug in the code snippet from the PDF I sent and fix it.,1,1,0,1
+Compare the summary of this document with the summary you gave me earlier.,1,0,1,0
+Is the code I provided earlier thread-safe? Check online resources.,0,1,1,0
+Retrieve the performance report and check online if the competitor results are accurate.,1,1,0,0
+Use the function from our chat history to process the data in this uploaded CSV file and show the first 5 rows of output.,1,0,1,1
+Find the algorithm implementation in the attached codebase document and check its time complexity using web search.,1,1,0,0
+"Take the Python script from the document, adapt it using the parameters we discussed earlier in the chat, and execute it.",1,0,1,1
+Search online for Python libraries suitable for parsing the custom file format we described in our conversation history.,0,1,1,0
+"Based on the 'IndexError' message we discussed, search online for common causes and apply a potential fix to the code from our chat.",0,1,1,1
+"Retrieve the API documentation I uploaded, find the endpoint for user creation, and write Python code to call it using the 'requests' library (check docs online if needed).",1,1,0,1
+Look back at the requirements list I mentioned earlier and verify if the attached design document covers all points.,1,0,1,0
+Can you find the code example from the PDF and run it with the input values I gave you in the chat?,1,0,1,1
+Cross-reference the user feedback from the chat log with the bug fixes listed in the release notes document.,1,0,1,0
+"Search the web for the latest version of the library mentioned in this document, then update the import statement in the code we worked on earlier.",1,1,1,1
